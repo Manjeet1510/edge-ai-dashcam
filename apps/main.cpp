@@ -1,7 +1,9 @@
 #include<stdio.h>
 
-int main(){
+int main()
+{
 
     printf("Hello from main method");
+    printf("Test 1\n\r");
     return 0;
 }
