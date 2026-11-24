@@ -4,5 +4,5 @@ int main()
 
 {
 
-printf("hello from edge ai dashcam\n");
+printf("hello from edge ai dashcam22\n");
 }
